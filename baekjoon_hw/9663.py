@@ -54,5 +54,4 @@ N = int(input())
 row = [0] * N
 result = 0
 dfs(0)
-print(row)
 print(result)
